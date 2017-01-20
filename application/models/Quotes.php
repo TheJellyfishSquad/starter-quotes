@@ -18,13 +18,15 @@ class Quotes extends CI_Model {
 		array('id' => '3', 'who' => 'Mark Russell', 'mug' => 'mark-russell-150x150.jpg', 'where' => '/show/3',
 			'what' => 'The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage.'),
 		array('id' => '4', 'who' => 'Anonymous', 'mug' => 'Anonymous-150x150.jpg', 'where' => '/dunno',
-			'what' => 'How do you get a sweet little 80-year-old lady to say the F word? Get another sweet little 80-year-old lady to yell “BINGO!”'),
+			'what' => 'How do you get a sweet little 80-year-old lady to say the F word? Get another sweet little 80-year-old lady to yell “BINGO!�?'),
 		array('id' => '5', 'who' => 'Socrates', 'mug' => 'socrates-150x150.jpg', 'where' => '/wise/bingo',
 			'what' => 'By all means, marry. If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.'),
 		array('id' => '6', 'who' => 'Isaac Asimov', 'mug' => 'isaac-asimov-150x150.jpg', 'where' => '/comp4711/wisdom',
-			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.')
+			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.'),
+		array('id' => '6', 'who' => 'Greg Little', 'mug' => 'LittleGreg.jpg', 'where' => '/huh',
+			'what' => 'just a kid and his friend both such nerds')
 	);
-
+                
 	// Constructor
 	public function __construct()
 	{
