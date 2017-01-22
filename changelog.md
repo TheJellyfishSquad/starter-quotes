@@ -9,4 +9,3 @@ Changelog: (Newest first)
 -Correcting missing file in develop
 -added photo of Greg Little
 -Made minor changes to Welcome.php and views\homepage.php
-
