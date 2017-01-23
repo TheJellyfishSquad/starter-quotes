@@ -5,7 +5,8 @@ Team Members:
 Programming notation: Yes
 
 Changelog: (Newest first)
->>Changelog Made
->> added photo of Greg Little
->> added random function
 -Added random function to website in Welcome.md
+-Changelog Made
+-Correcting missing file in develop
+-added photo of Greg Little
+-Made minor changes to Welcome.php and views\homepage.php
